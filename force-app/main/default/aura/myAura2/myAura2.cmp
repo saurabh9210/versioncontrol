@@ -1,0 +1,5 @@
+<aura:component controller="SampleClass">
+    <aura:method name="sampleMethod" action="{!c.myAction}">
+        <aura:attribute name="firstName" type="String"/>
+    </aura:method>
+</aura:component>

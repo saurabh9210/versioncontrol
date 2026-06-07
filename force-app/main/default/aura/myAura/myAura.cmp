@@ -1,0 +1,4 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+    <button onclick="{!c.myAction}" name="clickMe" label="Click Me"></button>
+    <c:myAura2 aura:id="myAura2"></c:myAura2>
+</aura:component>
