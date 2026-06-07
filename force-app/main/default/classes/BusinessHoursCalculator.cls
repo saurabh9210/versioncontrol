@@ -1,5 +1,5 @@
 public class BusinessHoursCalculator {
-
+    //add
     public class Request {
         @InvocableVariable
         public String caseRecId;
